@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    DJI remotes connect to the phone as a USB accessory. Omitting "model" makes the filter match
+    any DJI remote (each controller reports its own model string), so the app is offered
+    in the "open with" dialog when the cable is plugged in.
+-->
+<resources>
+    <usb-accessory manufacturer="DJI" />
+</resources>

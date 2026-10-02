@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "deny": [
+      "Read(./secrets.properties)",
+      "Read(**/secrets.properties)",
+      "Edit(./secrets.properties)",
+      "Edit(**/secrets.properties)",
+      "Write(./secrets.properties)",
+      "Write(**/secrets.properties)",
+      "Bash(*secrets.properties*)"
+    ]
+  }
+}

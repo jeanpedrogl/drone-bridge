@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Drone Bridge</string>
+    <string name="status_waiting">Aguardando registro do DJI SDK...</string>
+    <string name="telemetry_empty">Alt — · Vel — · GPS — · Bateria —</string>
+    <string name="takeoff">DECOLAR</string>
+    <string name="land">POUSAR</string>
+    <string name="land_confirm">CONFIRMAR POUSO</string>
+    <string name="panic">PÂNICO</string>
+    <string name="assume_control">ASSUMIR CONTROLE (RC)</string>
+    <string name="connection_status_empty">Drone: — · Computador: —</string>
+    <string name="connection_status_format">Drone: %1$s · Computador: %2$s</string>
+    <string name="status_connected">conectado</string>
+    <string name="status_disconnected">desconectado</string>
+    <string name="connection_status_description">Status da conexão com o drone e com o computador. Toque para configurar o endereço do computador.</string>
+    <string name="computer_settings_title">Conectar ao computador</string>
+    <string name="computer_settings_hint">IP e porta (ex: 10.42.0.1:9090)</string>
+    <string name="computer_settings_positive">Conectar</string>
+    <string name="computer_settings_negative">Cancelar</string>
+</resources>

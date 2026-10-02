@@ -1,0 +1,41 @@
+*.iml
+.gradle
+/local.properties
+/secrets.properties
+secrets.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+.kotlin/
+
+# Signing keys
+*.jks
+*.keystore
+*.p12
+
+# Build outputs
+*.apk
+*.aab
+
+# IDE files with machine-specific data (device serials, local paths)
+/.idea/deploymentTargetSelector.xml
+/.idea/shelf
+
+# Claude Code local overrides
+.claude/settings.local.json
+
+# Personal docs
+/docs/
+
+# Personal Claude/IDE files (not published)
+CLAUDE.local.md
+/.idea/markdown.xml
